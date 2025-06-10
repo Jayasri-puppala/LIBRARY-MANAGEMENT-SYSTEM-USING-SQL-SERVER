@@ -1,0 +1,11 @@
+s.no,branch_id,branch_name,manager_id,manager_name,branch_address,contact_no,library_type,established_year
+1,1001,Ameerpet_library,2001,ravi shankar,ameerpet,9087677577,private,1997
+2,1002,punjagutta_library,2001,ravi shankar,punjagutta,9087675764,private,1998
+3,1003,kukatpally_library,2002,naveen reddy,kukatpally,9087675877,private,2001
+4,1004,moosapet_library,2002,naveen reddy,moosapet,9087675866,private,2002
+5,1005,uppal_library,2003,akhil nilson,uppal,8087675765,private,2001
+6,1006,DKnagar_library  ,2004,ramesh vera,dilsuknagar,8908765466,private,1995
+7,1007,Miyapur_library,2005,vikram singh,miyapur,7809675765,government,1988
+8,1008,Tarnaka_library,2006,lakshmi narni,tarnaka,7088767576,government ,1990
+9,1009,Secunderabad_library,2006,lakshmi narni,tarnaka,7865757655,government,1997
+10,1010,Mehdipatnam_library,2004,ramesh vera,mehdipatnam,9087675765,private,1997
