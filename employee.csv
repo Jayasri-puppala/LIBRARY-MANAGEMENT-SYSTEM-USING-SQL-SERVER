@@ -1,0 +1,11 @@
+sno,emp_id,emp_name,emp_phn_no,designation,salary,branch_id
+1,3001,james roy,7676576577,Librarian,30000,1001
+2,3002,naveen reddy,9876787657,Manager,50000,1003
+3,3003,vikram singh,8987987654,Manager,30000,1007
+4,3004,praveen raj,7000980988,clerk,15000,1005
+5,3005,vamshi goud,9876789879,Librarian,30000,1009
+6,3006,syam singh,7676576555,clerk,30000,1002
+7,3007,ajay naidu,7676555454,Assistant,240000,1004
+8,3008,lakshmi narni,9898976555,manager,30000,1008
+9,3009,preethi,7866576588,Assistant,25000,1006
+10,3010,pruthvi raj,6301998789,clerk,18000,1010
