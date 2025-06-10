@@ -1,0 +1,21 @@
+s.no,isbn,book_title,category,rental_price,status,author,publisher,published_date
+1,9780073523323,Database Systems,Database,72,No,Ramez Elmasri,McGraw-Hill,01-01-2015
+2,9780131103627,The C Programming Language,Programming,55,Yes,Dennis Ritchie,Prentice Hall,22-02-1988
+3,9780132350884,Clean Code,Programming,70,No,Robert C. Martin,Prentice Hall,01-08-2008
+4,9780134494166,Core Java Volume I,Programming,68,Yes,Cay Horstmann,Pearson,27-12-2015
+5,9780134685991,Effective Java,Programming,65,No,Joshua Bloch,Addison-Wesley,06-01-2018
+6,9780135166307,Computer Organization,Architecture,67,Yes,Carl Hamacher,McGraw-Hill,01-01-2011
+7,9780136091813,Artificial Intelligence,AI,90,No,Stuart Russell,Pearson,11-12-2010
+8,9780201633610,Design Patterns,Software Engg,75,Yes,Erich Gamma,Addison-Wesley,31-10-1994
+9,9780262033848,Intro to Algorithms,Data Structures,90,Yes,Thomas H. Cormen,MIT Press,31-07-2009
+10,9780321573513,Introduction to Java,Programming,59,Yes,Daniel Liang,Pearson,15-03-2011
+11,9780596009205,Head First Java,Programming,60,Yes,Kathy Sierra,O?Reilly Media,28-07-2005
+12,9781259029943,Operating System Concepts,OS,88,No,Abraham Silberschatz,Wiley,01-03-2012
+13,9781449355739,Learning SQL,Database,55,No,Alan Beaulieu,O?Reilly Media,18-11-2016
+14,9781491950357,Designing Data Apps,Database,85,Yes,Martin Kleppmann,O?Reilly Media,16-03-2017
+15,9781492072508,Java Concurrency,Programming,78,Yes,Brian Goetz,O?Reilly Media,09-05-2006
+16,9781617294945,Spring in Action,Frameworks,80,Yes,Craig Walls,Manning,01-09-2018
+17,9788177582893,Let Us C,Programming,45,Yes,Yashwant Kanetkar,BPB Publications,01-01-2002
+18,9789332548874,Computer Networks,Networking,82,Yes,Andrew Tanenbaum,Pearson,01-08-2013
+19,9789353437180,Data Communication,Networking,60,Yes,Behrouz Forouzan,McGraw-Hill,01-01-2006
+20,9789389845827,Python Crash Course,Programming,50,Yes,Eric Matthes,No Starch Press,03-05-2019
